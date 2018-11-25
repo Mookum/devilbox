@@ -1,4 +1,4 @@
-##DevilBox
+## DevilBox
 1. git clone https://github.com/cytopia/devilbox
 2. cd devilbox
 3. cp env-example .env
